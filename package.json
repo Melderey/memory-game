@@ -1,0 +1,25 @@
+{
+  "name": "memory",
+  "version": "1.0.0",
+  "description": "the card game memory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Melderey/memory-game.git"
+  },
+  "keywords": [
+    "card",
+    "game",
+    "memory",
+    "concentration"
+  ],
+  "author": "Melderey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Melderey/memory-game/issues"
+  },
+  "homepage": "https://github.com/Melderey/memory-game#readme"
+}
